@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+.Kuubik{
+    margin-bottom: 100px;
+}
+
+p span{
+    color:blue;
+}
+
+.Kuubik li{
+    display: inline-block;
+}
+
+.Kuubik2{
+    border-style: dotted dashed solid double;
+
+
+}
+
+input{
+    display: block;
+    margin: 0 auto;
+    
+}
+form{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
